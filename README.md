@@ -7,7 +7,7 @@ Run the folloing commands:
 
 The above command will create a node_modules folder, having all the dependencies.
 
-To run the project run:
+To run the project execute this command:
 # `npm start`
 
 
